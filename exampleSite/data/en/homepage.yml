@@ -1,89 +1,73 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Đặt hàng xách tay các sản phẩm của Isha Life Ấn Độ"
+  content: "Các sản phẩm tâm linh được thánh hiến, thuốc, quần áo...được xách tay trực tiếp từ Isha Yoga Center (Coimbatore, Ấn Độ) về Việt Nam và vận chuyển cho khách đã đặt hàng"
+  image: "images/Shiva-thanh-hien.jpg"
   button:
     enable: true
-    label: "Browse All Products"
+    label: "Tất cả sản phẩm"
     link: "products/"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "Tại sao phải mua sản phẩm từ Isha Life"
+  image: "images/ishalife-logo.jpg"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Độ tin cậy và đảm bảo"
+      icon: "tf-target3"
+      content: "Các sản phẩm được bán ra tại Isha Yoga Center tại Ấn Độ là nơi sản xuất gốc và kiểm định cũng như phân phối tới các thị trường khác trên thế giới"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Một số sản phẩm được thánh hiến"
+      icon: "tf-target3"
+      content: "Những sản phẩm được thánh hiến chỉ có thể được thực hiện tại Isha Yoga Center mới có giá trị. Không có bất cứ địa điểm nào khác có thể thực hiện được các nghi thức thánh hiến này"
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Isha phân phối"
+      icon: "tf-target3"
+      content: "Tất cả các sản phẩm do Isha Foundation phân phối được các tình nguyện viên nhiệt huyết và tận tâm phục vụ nên chất lượng là đảm bảo nhất"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Giúp đỡ cộng đồng"
+      icon: "tf-target3"
+      content: "Vì một cộng đồng có ý thức và sức khoẻ! Hãy cùng nhau sử dụng các sản phẩm chính hãng từ Isha"
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/chuoi-kim-cang.jpg"
+  title: "Sản phẩm thánh hiến bởi Sadhguru"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    "Các sản phẩm thánh hiến được chính Sadhguru thực hiện tại Dhynalinga với năng lượng cực kỳ cao để mang lại trải nghiệm và lợi ích cho bất cứ ai sở hữu sản phẩm"
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Tại sao nên đặt hàng qua Ngô Nguyệt Mai"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/ngo-nguyet-mai.jpg"
+      title: "Hoạt động vì cộng đồng những người yêu mến Sadhguru"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Với mong muốn mang lại cho cộng đồng những người yêu mến Sadhguru, yêu mến yoga nói riêng và những người yêu sức khoẻ nói chung một sức khoẻ ổn định và thể lực phi thường để đi qua cuộc sống một cách dễ dàng!"
       button:
         enable: false
         label: "Check Features"
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/hang-ve.jpg"
+      title: "Hàng mới về và giao cho khách liên tục"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Chúng tôi thường xuyên qua Isha Yoga Center (Coimbatore, Ấn Độ) nên lượng hàng hoá sẽ về và giao hết cho khách theo từng đợt nên đảm bảo 100% hàng của khách hàng nhận được luôn là hàng có date mới nhất của trung tâm Isha"
       button:
         enable: false
         label: "Check Features"
@@ -92,11 +76,11 @@ about_product:
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "Xem thông tin các sản phẩm hiện có"
 
 ################################## Subscription ###################
 subscription:
-  enable: true
+  enable: false
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -105,22 +89,22 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable: true
-  title: "Watch Review"
+  title: "Nhận xét của khách đã đặt hàng"
   testimonial_item:
     # testimonial item loop
     - name: "Jonathon Andrew"
       designation: "CEO, Themefisher"
-      image: "images/avater.png"
+      image: "images/fb1.jpg"
       content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
 
     # testimonial item loop
     - name: "Jonathon Andrew"
       designation: "CEO, Themefisher"
-      image: "images/avater.png"
+      image: "images/fb2.jpg"
       content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Anh Phúc Sang"
+      designation: "Trưởng phòng, Công ty Sao Việt"
+      image: "images/fb3.jpg"
+      content: "Từ khi đeo chuỗi kim càng thấy tâm bình an hơn. Sk tốt. Đuoc bảo vệ moi thứ tiêu cực."

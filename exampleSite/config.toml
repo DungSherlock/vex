@@ -42,12 +42,12 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "Trang chủ"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "Sản phẩm"
 url = "products/"
 weight = 2
 
@@ -58,7 +58,7 @@ url = "testimonial"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "Liên hệ"
 url = "contact/"
 weight = 4
 
@@ -87,7 +87,7 @@ logo_width = "100px"
 description = "This is meta description"
 author = "Themefisher"
 # currency
-currency = "$"
+currency = "VNĐ"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 

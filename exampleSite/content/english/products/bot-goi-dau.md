@@ -50,3 +50,31 @@ Thành phần làm mát, mang lại cho da đầu cảm giác êm dịu và thư
 - Karisalankanni
 
 Một phần của hỗn hợp thảo dược này, giúp thúc đẩy sự phát triển của mái tóc um tùm và bóng mượt.
+
+<b><h2>Lợi ích</h2></b>
+
+<b>Làm sạch tự nhiên</b>
+
+Bảo vệ tóc của bạn khỏi các hóa chất khắc nghiệt trong xà phòng và dầu gội để giúp tóc bạn được làm sạch bằng thảo dược.
+
+<b>Tốt cho sự phát triển của tóc</b>
+
+Công thức 100% tự nhiên với Karisalankanni thúc đẩy sự phát triển của tóc khỏe mạnh.
+
+<b>Chống gàu</b>
+
+Nổi tiếng với đặc tính kháng khuẩn và kháng nấm Poduthalai, giữ cho da đầu của bạn khỏe mạnh và không bị gàu.
+
+<b>An toàn khi sử dụng hàng ngày</b>
+
+Một loại dầu gội hoàn toàn tự nhiên với độ pH thấp tự nhiên, không làm mất đi lớp dầu tự nhiên của tóc và giữ cho tóc luôn bóng mượt.
+
+<b><h2>Hướng dẫn sử dụng</h2></b>
+
+Trộn 2 thìa cà phê bột gội đầu thảo dược Kesh jyothi với nước để tạo thành hỗn hợp ướt
+
+Làm ướt tóc và thoa đều lên da đầu
+
+Rửa kỹ cho đến khi không còn cặn
+
+Để có kết quả tốt nhất nên ngâm bột qua đêm

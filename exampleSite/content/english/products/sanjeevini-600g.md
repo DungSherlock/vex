@@ -2,7 +2,7 @@
 title: "Ngũ cốc Sanjeevini ăn liền, dùng một lần (20g/gói x 30 gói)"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/products/sanjeevini-600g-1.webp"
+  - "images/products/sanjeevini-600g-1.jpg"
   - "images/products/sanjeevini-600g-2.webp"
   - "images/products/sanjeevini-600g-3.webp"
   - "images/products/sanjeevini-600g-3.webp"

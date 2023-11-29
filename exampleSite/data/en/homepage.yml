@@ -92,19 +92,19 @@ testimonial:
   title: "Nhận xét của khách đã đặt hàng"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Anh Tiến"
+      designation: "Nhân viên văn phòng, Marketing"
       image: "images/fb1.jpg"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "Tôi đã gặp phải vấn đề về cột sống và thoái hoá do môi trường làm việc phải ngồi máy tính nhiều. Giờ đây tôi đã giải quyết được thông qua thực hành sadhana nhưng một trong sự hỗ trợ lớn cho quá trình thực hành và sức khoẻ của tôi đó là các sản phẩm của Isha Life và đặc biệt là các sản phẩm được thánh hiến như DhyanaLinga đã tạo cho tôi một nguồn năng lượng dồi dào suốt cả ngày"
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Chị Vân"
+      designation: "Huấn luyện viên Yoga, Giáo viên"
       image: "images/fb2.jpg"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "Các sản phẩm của Isha Life luôn là sản phẩm mà tôi và cả các học viên của tôi sử dụng hàng ngày cho rất nhiều mục đích khác nhau. Các vật phẩm như bình đồng chúng tôi luôn mang hàng ngày trong các buổi tập. Phòng thực hành các bài yoga có tính chuyển hoá và tính tâm linh cao chúng tôi luôn có Dhyanalinga Yantra để nâng cao khả năng thiền định của mọi thành viên trong phòng tập"
 
     # testimonial item loop
     - name: "Anh Phúc Sang"
       designation: "Trưởng phòng, Công ty Sao Việt"
       image: "images/fb3.jpg"
-      content: "Từ khi đeo chuỗi kim càng thấy tâm bình an hơn. Sk tốt. Đuoc bảo vệ moi thứ tiêu cực."
+      content: "Từ khi đeo chuỗi kim càng thấy tâm bình an, hạnh phúc và sức khoẻ tốt hơn. Tôi có cảm giác như bản thân tôi và những người tôi yêu quý xung quanh đều được bảo vệ vậy. Thật là biết ơn Sadhguru. Tôi mong có nhiều người biết tới các sản phẩm thánh hiến của Sadhguru cũng như thực hành các bài tập yoga để có một cuộc sống bình an và hạnh phúc như gia đình chúng tôi"

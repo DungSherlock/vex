@@ -5,7 +5,6 @@ images:
   - "images/products/sanjeevini-500g-1.webp"
   - "images/products/sanjeevini-500g-2.webp"
   - "images/products/sanjeevini-500g-3.webp"
-  - "images/products/sanjeevini-500g-4.webp"
 # meta description
 description : "https://ishalife.sadhguru.org/in/sanjeevini-multigrain-health-drink-mix-500-gm"
 

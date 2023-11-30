@@ -103,12 +103,12 @@ Tụng kinh Devi Stuti hàng ngày giúp củng cố lòng sùng mộ của mộ
 
 <b><h2>Xem thêm hình ảnh</h2></b>
 
-<img src="images/products/set-devi-gudi-arpanam-6.webp" width="100%" height="auto">
+<img src="/images/products/set-devi-gudi-arpanam-6.webp" width="100%" height="auto">
 
-<img src="images/products/set-devi-gudi-arpanam-7.webp" width="100%" height="auto">
+<img src="/images/products/set-devi-gudi-arpanam-7.webp" width="100%" height="auto">
 
-<img src="images/products/set-devi-gudi-arpanam-8.webp" width="100%" height="auto">
+<img src="/images/products/set-devi-gudi-arpanam-8.webp" width="100%" height="auto">
 
-<img src="images/products/set-devi-gudi-arpanam-9.webp" width="100%" height="auto">
+<img src="/images/products/set-devi-gudi-arpanam-9.webp" width="100%" height="auto">
 
-<img src="images/products/set-devi-gudi-arpanam-10.webp" width="100%" height="auto">
+<img src="/images/products/set-devi-gudi-arpanam-10.webp" width="100%" height="auto">

@@ -43,7 +43,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/chuoi-kim-cang.jpg"
+  image: "images/thanh-hoa.webp"
   title: "Sản phẩm thánh hiến bởi Sadhguru"
   content:
     "Các sản phẩm thánh hiến được chính Sadhguru thực hiện tại Dhynalinga với năng lượng cực kỳ cao để mang lại trải nghiệm và lợi ích cho bất cứ ai sở hữu sản phẩm"

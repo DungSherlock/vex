@@ -1,5 +1,5 @@
 ---
-title: "Bột Neem và Nghệ trong viên nang rau. Mỗi lọ 100 viên. Để giải độc hàng ngày"
+title: "Combo bột Neem và Nghệ trong viên nang. Mỗi lọ 100 viên. Để giải độc hàng ngày"
 date: 2023-11-29T11:22:16+06:00
 images: 
   - "images/products/neem-nghe-1.webp"

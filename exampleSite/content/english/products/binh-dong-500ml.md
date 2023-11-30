@@ -18,7 +18,7 @@ price: "370.000"
 # sizes : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button
-button_link: "https://www.messenger.com/t/100034326040392"
+button_link: "https://m.me/100034326040392"
 
 draft: false
 ---

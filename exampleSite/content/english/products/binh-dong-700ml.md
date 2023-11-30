@@ -1,16 +1,15 @@
 ---
-title: "[FreeShip] Bình đồng đựng nước có trích dẫn của Sadhguru (500ml)"
+title: "[FreeShip] Bình đồng đựng nước có trích dẫn của Sadhguru (700ml)"
 date: 2023-11-29T11:22:16+06:00
 images: 
-  - "images/products/binh-dong-500ml-1.jpg"
-  - "images/products/binh-dong-500ml-2.jpg"
-  - "images/products/binh-dong-500ml-3.jpg"
-  - "images/products/binh-dong-500ml-4.jpg"
+  - "images/products/binh-dong-700ml-1.jpg"
+  - "images/products/binh-dong-700ml-2.jpg"
+  - "images/products/binh-dong-700ml-3.jpg"
 # meta description
-description : "https://ishalife.sadhguru.org/in/small-copper-water-bottle-with-sadhguru-quote"
+description : "https://ishalife.sadhguru.org/in/copper-water-bottle-engraved-with-sadhguru-quote-700-ml"
 
 # product Price
-price: "370.000"
+price: "570.000"
 # discount_price: "25.00"
 
 # product variation
@@ -37,7 +36,7 @@ Giữ sức khỏe và ngậm nước mỗi ngày!
 
 <b><h2>Thông tin chi tiết</h2></b>
 
-Dung tích bình chứa: 500ml
+Dung tích bình chứa: 700ml
 
 <b><h2>Cách vệ sinh bình đồng</h2></b>
 

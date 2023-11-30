@@ -6,10 +6,6 @@ images:
   - "images/products/dhyanalinga-yantra-25mm-2.webp"
   - "images/products/dhyanalinga-yantra-25mm-3.webp"
   - "images/products/dhyanalinga-yantra-25mm-4.webp"
-  - "images/products/dhyanalinga-yantra-25mm-5.webp"
-  - "images/products/dhyanalinga-yantra-25mm-6.webp"
-  - "images/products/dhyanalinga-yantra-25mm-7.webp"
-  - "images/products/dhyanalinga-yantra-25mm-8.webp"
 # meta description
 description : "https://ishalife.sadhguru.org/in/dhyanalinga-yantra-with-wooden-frame-25-mm-5514"
 

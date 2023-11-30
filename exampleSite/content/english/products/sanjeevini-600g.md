@@ -3,10 +3,9 @@ title: "Ngũ cốc Sanjeevini ăn liền, dùng một lần (20g/gói x 30 gói)
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/products/sanjeevini-600g-1.jpg"
-  - "images/products/sanjeevini-600g-2.webp"
-  - "images/products/sanjeevini-600g-3.webp"
-  - "images/products/sanjeevini-600g-3.webp"
-  - "images/products/sanjeevini-600g-5.webp"
+  - "images/products/sanjeevini-600g-2.jpg"
+  - "images/products/sanjeevini-600g-3.jpg"
+  - "images/products/sanjeevini-600g-4.jpg"
 
 # meta description
 description : "https://ishalife.sadhguru.org/in/instant-sanjeevini-600gms-n"

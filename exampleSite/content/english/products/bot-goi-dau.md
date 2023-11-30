@@ -6,9 +6,6 @@ images:
   - "images/products/bot-goi-dau-2.webp"
   - "images/products/bot-goi-dau-3.webp"
   - "images/products/bot-goi-dau-4.webp"
-  - "images/products/bot-goi-dau-5.webp"
-  - "images/products/bot-goi-dau-6.webp"
-  - "images/products/bot-goi-dau-7.webp"
 # meta description
 description : "https://ishalife.sadhguru.org/in/kesh-jyoti-herbal-hair-wash-powder-500-gm-isha-s-unique-siddha-formulation-a-herbal-powder-with-shikakai-and-4-other-natural-and-traditional-herbs-for-healthy-scalp-and-hair"
 

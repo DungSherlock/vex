@@ -1,5 +1,5 @@
 ---
-title: "[FreeShip]Chuỗi Isha Panchamukhi Rudraksha (5 mặt) đeo cổ (7.7.5mm)"
+title: "[FreeShip]Chuỗi Isha Panchamukhi Rudraksha (5 mặt) đeo cổ (7.5mm)"
 date: 2023-11-29T11:22:16+06:00
 images: 
   - "images/products/rudraksha-7.5mm-1.webp"
@@ -39,7 +39,7 @@ Là một phụ kiện mạnh mẽ, được mọi người tìm kiếm tâm lin
 
 Kích thước (tính bằng inch)
 
-Chiều dài mala 7.7.5mm - Khoảng 30" + 3" (tua)
+Chiều dài mala 7.5mm - Khoảng 30" + 3" (tua)
 
 <b><h2>Lợi ích</h2></b>
 

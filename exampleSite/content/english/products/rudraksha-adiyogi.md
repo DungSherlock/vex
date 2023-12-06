@@ -11,7 +11,7 @@ images:
 description : "https://ishalife.sadhguru.org/in/adiyogi-rudraksha-with-chain"
 
 # product Price
-price: "300.000"
+price: "250.000"
 # discount_price: "25.00"
 
 # product variation

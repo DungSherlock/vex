@@ -11,7 +11,7 @@ images:
 description : "https://ishalife.sadhguru.org/in/devi-gudi-arpanam-set-an-expression-of-devotion-to-devi-devi-gudi-with-intricately-designed-devi-gudi-plate-devi-kumkum-and-devi-stuti"
 
 # product Price
-price: "11.500.000"
+price: "11.000.000"
 # discount_price: "25.00"
 
 # product variation

@@ -44,12 +44,15 @@ Quả acai berry là nguồn giàu vitamin và chất chống oxy hóa giúp gi�
 <b><h2>Lợi ích</h2></b>
 
 <img src="/images/products/sua-tam-acai-berry-200ml-6.webp" style="width: 50%; height: auto;">
+
 Dưỡng ẩm cho làn da của bạn để làm cho nó mềm mại và mịn màng.
 
 <img src="/images/products/sua-tam-acai-berry-200ml-7.webp" style="width: 50%; height: auto;">
+
 Giữ cho làn da của bạn săn chắc, từ đó giảm bớt các dấu hiệu của nếp nhăn và lão hóa.
 
 <img src="/images/products/sua-tam-acai-berry-200ml-8.webp" style="width: 50%; height: auto;">
+
 Làm sạch sâu các lỗ chân lông bị tắc, để lại làn da tươi mới và rạng rỡ.
 
 <b><h2>Cách sử dụng</h2></b>

@@ -1,12 +1,14 @@
 ---
-title: "Kem đánh răng thảo dược (Paraben, Fluoride, SLS, & SLES Free) (50 gm)"
+title: "Kem đánh răng thảo dược (Paraben, Fluoride, SLS, & SLES Free) (150 gm)"
 date: 2023-11-29T11:22:16+06:00
 images: 
-  - "images/products/kem-danh-rang-50g-1.webp"
-  - "images/products/kem-danh-rang-50g-2.webp"
-  - "images/products/kem-danh-rang-50g-3.webp"
+  - "images/products/kem-danh-rang-150g-1.webp"
+  - "images/products/kem-danh-rang-150g-2.webp"
+  - "images/products/kem-danh-rang-150g-3.webp"
+  - "images/products/kem-danh-rang-150g-4.webp"
+  - "images/products/kem-danh-rang-150g-5.webp"
 # meta description
-description : "https://ishalife.sadhguru.org/in/herbal-toothpaste-paraben-fluoride-sls-sles-free-50-gm"
+description : "https://ishalife.sadhguru.org/in/herbal-toothpaste-paraben-fluoride-sls-sles-free-150-gm"
 
 # product Price
 price: "150.000"

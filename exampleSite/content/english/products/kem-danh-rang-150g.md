@@ -9,7 +9,7 @@ images:
 description : "https://ishalife.sadhguru.org/in/herbal-toothpaste-paraben-fluoride-sls-sles-free-50-gm"
 
 # product Price
-price: "33.000"
+price: "150.000"
 # discount_price: "25.00"
 
 # product variation
